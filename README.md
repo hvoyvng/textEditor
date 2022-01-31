@@ -8,4 +8,4 @@ Use ```npm i``` to install the packages ```npm run start``` to start the applica
 
 ## Links
 GitHub: [Link](https://github.com/hvoyvng/textEditor)
-Live Site: [Link]()
+Live Site: [Link](https://text-editor0628.herokuapp.com/)
